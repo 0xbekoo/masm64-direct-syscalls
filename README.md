@@ -2,8 +2,6 @@
 
 This repository demonstrates the technique of performing direct system calls in Windows using MASM64 Assembly. A direct system call bypasses the normal Windows API function calls and interacts with the system's kernel directly by invoking the appropriate system service via the syscall instruction. 
 
-<br>
-
 ## `🔧` Prerequisites
 
 Before you begin, ensure you have the following tools installed:
@@ -14,8 +12,6 @@ Before you begin, ensure you have the following tools installed:
 - Windows 10/11 x64 (The code is tailored for modern Windows OS, and might not work on older versions)
 
 Since the project does not use any function to print the program's status to the screen, you will need to track the results using a debugger tool.
-
-<br>
 
 ## `⚙️` Required Modifications Before Running the Project
 Before running the project, some changes need to be made. Follow the steps below to update the necessary configurations:
