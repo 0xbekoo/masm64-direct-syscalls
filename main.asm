@@ -2,7 +2,7 @@
 ;
 ; @author: 0xbekoo
 ; @Project: Direct Systemcall with MASM64 Assembly
-; @Last Update: 2021-12-18
+; @Last Update: 2024-12-18
 ;
 ; @Warning: This project is for educational purposes only. If you use this project for illegal purposes, it is your responsibility.
 ;
